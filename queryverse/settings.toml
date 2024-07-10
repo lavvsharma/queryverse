@@ -1,0 +1,5 @@
+[logger]
+file_name = "queryverse.log"
+file_max_size = "50 MB"
+create_new_log_at = "00:00"
+clean_log_after = "3 days"
