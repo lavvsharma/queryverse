@@ -1,0 +1,5 @@
+# Ignore dynaconf secret files
+queryverse/.secrets.*
+
+# Ignore the log files
+queryverse/*.log
